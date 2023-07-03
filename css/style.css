@@ -139,6 +139,10 @@ position: relative;
 
 /* Home Page Start */
 
+.underline{
+  text-decoration: underline;
+}
+
 #hero{
   background-image: url("../img/hero4.png");
   height: 90vh;
@@ -1071,6 +1075,9 @@ footer .copyright{
   }
   h2 {
     font-size: 32px;
+  }
+  .underline{
+    font-size: 20px;
   }
   #hero {
     background-position: 55%;
